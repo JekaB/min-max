@@ -1,0 +1,6 @@
+c:\users\jeka\documents\visual studio 2013\Projects\min-max\min-max\bin\Debug\min-max.exe.config
+c:\users\jeka\documents\visual studio 2013\Projects\min-max\min-max\bin\Debug\min-max.exe
+c:\users\jeka\documents\visual studio 2013\Projects\min-max\min-max\bin\Debug\min-max.pdb
+c:\users\jeka\documents\visual studio 2013\Projects\min-max\min-max\obj\Debug\min-max.csprojResolveAssemblyReference.cache
+c:\users\jeka\documents\visual studio 2013\Projects\min-max\min-max\obj\Debug\min-max.exe
+c:\users\jeka\documents\visual studio 2013\Projects\min-max\min-max\obj\Debug\min-max.pdb
